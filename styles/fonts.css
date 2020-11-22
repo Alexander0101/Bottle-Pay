@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'poppins';
+    src: url('../fonts/PoppinsBold/poppins-bold-webfont.eot');
+    src: url('../fonts/PoppinsBold/poppins-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PoppinsBold/poppins-bold-webfont.woff2') format('woff2'),
+         url('../fonts/PoppinsBold/poppins-bold-webfont.woff') format('woff'),
+         url('../fonts/PoppinsBold/poppins-bold-webfont.ttf') format('truetype'),
+         url('../fonts/PoppinsBold/poppins-bold-webfont.svg#poppinsbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'poppins';
+    src: url('../fonts/PoppinsRegular/poppins-regular-webfont.eot');
+    src: url('../fonts/PoppinsRegular/poppins-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PoppinsRegular/poppins-regular-webfont.woff2') format('woff2'),
+         url('../fonts/PoppinsRegular/poppins-regular-webfont.woff') format('woff'),
+         url('../fonts/PoppinsRegular/poppins-regular-webfont.ttf') format('truetype'),
+         url('../fonts/PoppinsRegular/poppins-regular-webfont.svg#poppinsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'poppins';
+    src: url('../fonts/PoppinsMedium/poppins-medium-webfont.eot');
+    src: url('../fonts/PoppinsMedium/poppins-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PoppinsMedium/poppins-medium-webfont.woff2') format('woff2'),
+         url('../fonts/PoppinsMedium/poppins-medium-webfont.woff') format('woff'),
+         url('../fonts/PoppinsMedium/poppins-medium-webfont.ttf') format('truetype'),
+         url('../fonts/PoppinsMedium/poppins-medium-webfont.svg#poppins_mediumregular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon/icomoon.eot');
+    src:  url('../fonts/icomoon/icomoon.eot?utmf69#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon/icomoon.ttf?utmf69') format('truetype'),
+        url('../fonts/icomoon/icomoon.woff?utmf69') format('woff'),
+        url('../fonts/icomoon/icomoon.svg?utmf69#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
